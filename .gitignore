@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 
 moodboard.png
+
+src/stylesheets/output.css
