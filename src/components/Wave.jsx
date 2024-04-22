@@ -1,7 +1,6 @@
 import * as THREE from 'three';
 import { useEffect } from 'react';
 
-
 const vertexHeight    =  40000,
       planeDefinition =  100,
       planeSize       =  1245000,
